@@ -1,0 +1,12 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,stream-link.online
+DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,docker.xiaoya.pro
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,xy.ggbond.org
+DOMAIN-SUFFIX,auth.docker.io
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,gh-proxy.com
