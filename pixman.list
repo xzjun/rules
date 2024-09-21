@@ -14,7 +14,7 @@ rules:
   - IP-CIDR,183.238.66.0/24,DIRECT,no-resolve
 
   # 自行测试当地是否能够直连，不能直连删掉下面这行
-  ;- DOMAIN,beesport.livednow.com,DIRECT
+  - DOMAIN,beesport.livednow.com,DIRECT
 
   # 海外
   - DOMAIN-SUFFIX,livednow.com,Proxy
