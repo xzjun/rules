@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,gcable.cn
 DOMAIN,beesport.livednow.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
