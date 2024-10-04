@@ -13,6 +13,13 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,thetvapp.to
+DOMAIN-SUFFIX,docker.xiaoya.pro
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,xy.ggbond.org
+DOMAIN-SUFFIX,auth.docker.io
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,gh-proxy.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
